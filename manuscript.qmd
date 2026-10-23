@@ -1,0 +1,22 @@
+# {{< var title >}} {.unnumbered .unlisted}
+
+:::{.content-hidden when-profile="anonymous"}
+
+{{< include title-page.qmd >}}
+
+:::
+
+## Abstract
+
+## Introduction
+
+## Methods
+
+## Results
+
+## Discussion
+
+## References
+
+::: {#refs}
+:::

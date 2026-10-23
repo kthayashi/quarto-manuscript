@@ -1,0 +1,4 @@
+.DS_Store
+**/*.quarto_ipynb
+/.quarto/
+_output/

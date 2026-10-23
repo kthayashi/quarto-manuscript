@@ -1,0 +1,9 @@
+project:
+  title: Manuscript
+  execute-dir: project
+  output-dir: _output
+
+format:
+  pdf: default
+  docx: default
+  html: default

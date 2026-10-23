@@ -1,0 +1,21 @@
+:::{.content-visible when-profile="anonymous"}
+
+Title: {{< var title >}}
+
+:::
+
+Authors:
+
+Corresponding author:
+
+ORCIDs:
+
+Short title:
+
+Keywords:
+
+Article type:
+
+Word count:
+
+Supporting information:

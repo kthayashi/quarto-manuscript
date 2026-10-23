@@ -1,0 +1,8 @@
+# Supplementary materials {.unnumbered .unlisted}
+
+## {{< var title >}} {.unnumbered .unlisted}
+
+## References
+
+::: {#refs}
+:::
